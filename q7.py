@@ -1,0 +1,1 @@
+# WAP to calculate avg of a given list 
